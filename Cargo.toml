@@ -1,5 +1,6 @@
 [package]
 name = "pg-pool-safe-query"
+description = "Check for PgBouncer compatibility of queries."
 version = "0.1.0"
 edition = "2021"
 authors = ["JP Camara <48120+jpcamara@users.noreply.github.com>"]
