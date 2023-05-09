@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["JP Camara <48120+jpcamara@users.noreply.github.com>"]
 license = "MIT"
-publish = false
+publish = true
 
 [dependencies]
 pg_query = "0.7"
